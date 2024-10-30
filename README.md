@@ -7,7 +7,7 @@ rather than having a static url variable that you would need to change with ever
 To run this program:
 1. make sure you have pip installed
 2. run the command "pip3 install yt-dlp"
-3. adjust the variable "outputPath" to whatever output folder you would like
+3. adjust the variable "output_path" to whatever output folder you would like
 4. head over to YouTube and grab the url of the video you want to download
 5. make sure you are inside the directory that has the yt_downloader.py file
 6. run the program with the command line using the command: python3 yt_downloader.py "video URL"
